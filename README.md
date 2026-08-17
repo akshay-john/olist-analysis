@@ -1,6 +1,8 @@
 # Olist E-commerce Sales Analysis
 An in-depth analysis of Olist's online sales with PostgreSQL, Excel, Python, and Tableau. A presentation sample with recommendations geared towards Sales and Marketing teams.
 
+**Author**: [Akshay John A](https://akshay-john-portfolio-main.vercel.app)
+
 ## Contents
 1. [What is Olist?](#what-is-olist?)
 2. [Data Structure](#data-structure)
